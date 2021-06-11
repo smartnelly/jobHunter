@@ -13,7 +13,8 @@ import EditJob from "./Job/edit-job.component";
 import CompaniesList from "./company/companies-list.component";
 import CreateCompany from "./company/create-company.component";
 import EditCompany from "./company/edit-company.component";
-import SearchJob from "./search/search-job";
+import SearchJob from "./search/searchJob";
+import npmUse from "./npmUse";
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
         <Route path="/create-job" component={CreateJob} />
         <Route path="/create-company" component={CreateCompany} />
         <Route path="/search-job" component={SearchJob} />
+        <Route path="/npm-use" component={npmUse} />
       </div>
     </Router>
   );

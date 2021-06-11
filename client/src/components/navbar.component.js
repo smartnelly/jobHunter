@@ -41,6 +41,11 @@ export default class Navbar extends Component {
                 Search Jobs
               </Link>
             </li>
+            <li className="navbar-item">
+              <Link to="/npm-use" className="nav-link">
+                Npm Use
+              </Link>
+            </li>
           </ul>
         </div>
       </nav>
