@@ -8,8 +8,8 @@ function App() {
       <h2> ~/brain $ npm install Mai</h2>
       <br />
       <h2>import ItSkill from "GA@Syd";</h2>
-      <h2>import Help, Further from "Joel";</h2>
-      <h2>import Help, Further from "Mai";</h2>
+      <h2>import Help, FurtherHelp from "Joel";</h2>
+      <h2>import Help, FurtherHelp from "Mai";</h2>
     </div>
   );
 }
