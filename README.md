@@ -1,4 +1,4 @@
-# **[JobHunter](https://thejobhunter.surge.sh/search-job)**
+# **[JobHunter](https://thejobhunter.surge.sh/)**
 
 ---
 
@@ -26,8 +26,8 @@ A job application tracking website to make job apply in a more efficient
 
 ## Use the app!
 
-**[JobHunter](https://thejobhunter.surge.sh/search-job)**
-https://thejobhunter.surge.sh/search-job
+**[JobHunter](https://thejobhunter.surge.sh/)**
+https://thejobhunter.surge.sh/
 
 ### Future Plans
 
